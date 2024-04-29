@@ -1,0 +1,31 @@
+@font-face{
+    font-family: 'roboto';
+    src: url(Roboto/Roboto-Thin.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+h1 {
+    font-family: 'roboto';
+    font-weight: 100;
+}
+
+
+@font-face{
+    font-family: 'roboto';
+    src: url(Roboto/Roboto-Black.ttf);
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+
+h2 {
+    font-family: 'roboto';
+    font-weight: 600;
+
+}
+
+body {
+    background-image: url('https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1693267823655-3711YY46XXOD5WADE9VB/Ev8RQYqXMAAqwGj.jpeg?format=2500w ');
+    size: 80%;
+}
